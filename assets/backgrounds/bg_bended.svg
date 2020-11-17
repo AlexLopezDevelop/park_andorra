@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="414px" height="150px" viewBox="0 0 414 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Rectangle</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-11" transform="translate(0.000000, -683.000000)" fill="#FFB81C">
+            <path d="M0,683 L414,683 L414,833 C358.811975,810.391187 289.811975,799.086781 207,799.086781 C124.188025,799.086781 55.1880252,810.391187 0,833 L0,683 Z" id="Rectangle" transform="translate(207.000000, 758.000000) rotate(-180.000000) translate(-207.000000, -758.000000) "></path>
+        </g>
+    </g>
+</svg>
